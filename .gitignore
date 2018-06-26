@@ -4,4 +4,6 @@ ITS2/CHTC/*
 16S/db/*
 16S/oligos.txt
 16S/otu_table.txt
+.DS_Store
+.ipynb_checkpoints
 
